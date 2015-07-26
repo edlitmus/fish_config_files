@@ -1,2 +1,2 @@
-set -x HOMEBREW_GITHUB_API_TOKEN 8ed9f9f30cb5bfff4cd1f1799200fa2fae678a45
+
 set -x LSCOLORS gxfxcxdxbxegedabagacad
